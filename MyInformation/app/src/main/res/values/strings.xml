@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Information</string>
+    <string name="full_name">Бакланова Ляна</string>
+    <string name="title">Студент</string>
+    <string name="phone">+7 961 721 07 19</string>
+    <string name="social_media">@muchemeche</string>
+    <string name="email">mistfoll@mail.ru</string>
+</resources>
